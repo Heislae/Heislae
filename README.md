@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Heislae, an aspiring professional programmer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, Python, Java, and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Heislae, an aspiring professional programmer and a network engineer
+- 👀 I’m interested in cybersecurity and the internet itself
+- 🌱 I’m currently learning technologies in relation to networking and cybersecurity
+- 💞️ I’m looking to collaborate on maintaining networks
+- 📫 You can reach me through this email "raymond18oren@gmail.com"
 
 <!---
 Heislae/Heislae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
